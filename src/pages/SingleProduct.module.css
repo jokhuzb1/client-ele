@@ -44,3 +44,9 @@ button{
   padding: 0 .3rem 1rem 0;
   border-bottom: 1px solid #3b3b3b;
 }
+@media screen and (max-width:768px){
+  .container{
+    display: none;
+  }
+
+}

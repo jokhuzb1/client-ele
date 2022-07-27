@@ -110,7 +110,7 @@ export const data = [
     "model": "iphone12",
     "make": "apple",
     "price": 910,
-    "color": "nighblue",
+    "color": "midnightblue",
     "image": [
       "urlhttps://google.comurl:https://amazon.com",
       "://google.comurl:https://amazon.com"
@@ -125,7 +125,7 @@ export const data = [
     "model": "iphone12",
     "make": "apple",
     "price": 960,
-    "color": "nighblue",
+    "color": "midnightblue",
     "image": [
       "urlhttps://google.comurl:https://amazon.com",
       "://google.comurl:https://amazon.com"
@@ -140,7 +140,7 @@ export const data = [
     "model": "iphone12",
     "make": "apple",
     "price": 1060,
-    "color": "nighblue",
+    "color": "midnightblue",
     "image": [
       "urlhttps://google.comurl:https://amazon.com",
       "://google.comurl:https://amazon.com"
@@ -155,7 +155,7 @@ export const data = [
     "model": "iphone12",
     "make": "apple",
     "price": 960,
-    "color": "nighblue",
+    "color": "midnightblue",
     "image": [
       "urlhttps://google.comurl:https://amazon.com",
       "://google.comurl:https://amazon.com"
@@ -170,7 +170,7 @@ export const data = [
     "model": "iphone12",
     "make": "apple",
     "price": 1010,
-    "color": "nighblue",
+    "color": "midnightblue",
     "image": [
       "urlhttps://google.comurl:https://amazon.com",
       "://google.comurl:https://amazon.com"
@@ -185,7 +185,7 @@ export const data = [
     "model": "iphone12",
     "make": "apple",
     "price": 1010,
-    "color": "nighblue",
+    "color": "midnightblue",
     "image": [
       "urlhttps://google.comurl:https://amazon.com",
       "://google.comurl:https://amazon.com"

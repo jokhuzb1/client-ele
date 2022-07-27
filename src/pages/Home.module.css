@@ -3,7 +3,7 @@
   flex-wrap: wrap;
   padding:2rem;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
 }
 .filter{
   flex:1;
@@ -14,4 +14,13 @@
   flex-wrap: wrap;
   border-left: 1px solid rgb(126, 126, 126);
   justify-content:space-evenly;
+}
+@media screen and (max-width:768px){
+  .home{
+    flex-direction: column;
+  }
+  .products{
+    border:none;
+  }
+
 }

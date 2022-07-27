@@ -1,0 +1,21 @@
+.price {
+    color: white;
+}
+
+.price_input {
+    margin-right: 5px;
+}
+
+.min,
+.max {
+    font-size: 18px;
+}
+
+.price label {
+    font-size: 20px;
+}
+
+.price_item {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}

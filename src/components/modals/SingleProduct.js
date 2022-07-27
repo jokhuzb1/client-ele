@@ -13,6 +13,9 @@ const SingleProductModal = ({ setShowModal, item, children }) => {
     <Fragment>
       {ReactDom.createPortal(<Backdrop setShowModal={setShowModal} />, modalPlaceholder)}
       {ReactDom.createPortal(<ModalOverlay item={item}>{children}</ModalOverlay>, modalPlaceholder)}
+      <div className={classes.note}>
+        <h2>Mobile version is under construction</h2>
+      </div>
     </Fragment>
   );
 };
