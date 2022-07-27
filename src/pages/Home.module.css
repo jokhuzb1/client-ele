@@ -1,0 +1,17 @@
+.home{
+  display: flex;
+  flex-wrap: wrap;
+  padding:2rem;
+  justify-content: center;
+  align-items: center;
+}
+.filter{
+  flex:1;
+}
+.products{
+  flex:4;
+  display: flex;
+  flex-wrap: wrap;
+  border-left: 1px solid rgb(126, 126, 126);
+  justify-content:space-evenly;
+}

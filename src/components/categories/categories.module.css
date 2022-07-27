@@ -1,0 +1,24 @@
+.category ul{
+  display: flex;
+  justify-content: center;
+  background-color:#4b4b4b;
+  list-style: none;
+  color: #FFFF;
+  padding: .5rem;
+}
+.category li{
+  margin: 0 1rem;
+  cursor:pointer;
+  padding: .3rem .46rem;
+  border-radius: 3px;
+}
+.category li:hover{
+  background-color: #7b7b7b;
+  padding: .3rem .3rem;
+  font-weight: bold;
+}
+@media only screen and (max-width: 768px) {
+  .category{
+    display: none;
+  }
+}
